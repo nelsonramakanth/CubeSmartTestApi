@@ -1,0 +1,9 @@
+
+<form>
+  <h1>Cube Smart data</h1>
+  <label ></label>
+  <label >Upsert Text:</label><br>
+  <input #fname matInput type="text" name="fname"><br>
+  <input type="button" id="btnUpsert" name="bthUpsert" value="Upsert" (click)="upsertClick(fname.value)"><br>
+</form>
+<router-outlet />
