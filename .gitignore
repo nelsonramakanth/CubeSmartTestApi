@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebApi/CubeSmartApplication/.vs
+/WebApi/CubeSmartApplication/Application/obj
+/WebApi/CubeSmartApplication/CubeSmart.API/bin/Debug/netcoreapp3.1
+/WebApi/CubeSmartApplication/CubeSmart.API/obj
+/WebApi/CubeSmartApplication/Domain/obj
+/WebApi/CubeSmartApplication/Domain/bin/Debug/netcoreapp3.1
+/WebApi/CubeSmartApplication/Application/bin/Debug/netcoreapp3.1
